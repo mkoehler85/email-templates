@@ -1,0 +1,3 @@
+[submodule "ModernMail"]
+	path = ModernMail
+	url = https://github.com/patrickocoffeyo/ModernMail.git
